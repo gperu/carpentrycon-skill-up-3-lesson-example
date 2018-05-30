@@ -8,6 +8,7 @@ objectives:
 - "First objective."
 keypoints:
 - "First key point."
+- "Hello".
 ---
 
 {% include links.md %}
